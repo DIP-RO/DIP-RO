@@ -1,299 +1,285 @@
-# Hi, I'm Dipro Paul 👋
-
-### Full-Stack Software Engineer | Applied AI
-
-<p>
-  I build reliable full-stack applications, backend services, scalable APIs, and AI-powered workflows using
-  <strong>TypeScript, React, Next.js, Node.js, Python, and FastAPI</strong>.
+<p align="center">
+  <img src="./assets/header.svg" alt="Dipro Paul — Full-Stack Software Engineer | Applied AI" width="100%" />
 </p>
 
-<p>
-  My applied AI work includes <strong>LLM integration, RAG, AI agents, agentic workflows, multimedia intelligence,
-  NLP, and computer vision</strong>.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Applied+AI+%26+Agentic+Systems;TypeScript+%7C+React+%7C+Node.js+%7C+Python+%7C+FastAPI;Building+Reliable%2C+Scalable%2C+Intelligent+Products"
+      alt="Typing introduction"
+    />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dip-ro&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DIP-RO?label=Followers&style=flat" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/DIP-RO?label=Stars&style=flat" alt="GitHub stars" />
+<p align="center">
+  <a href="https://dipropaul.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/dipro-paul">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dipropaul032@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/DIP-RO?tab=followers">
+    <img src="https://img.shields.io/github/followers/DIP-RO?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DIP-RO&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-- Full-Stack Software Engineer experienced in frontend, backend, APIs, databases, and deployment
-- Build production-focused software using **React, Next.js, Node.js, Express.js, FastAPI, and Django REST Framework**
-- Integrate **OpenAI, Gemini, RAG, vector databases, AI agents, and agentic workflows**
-- Work with **audio, video, speech processing, computer vision, and automated content analysis**
+I am a **Full-Stack Software Engineer** focused on building reliable web applications, backend services, scalable APIs, automation systems, and production-oriented AI features.
+
+- Build with **TypeScript, React, Next.js, Node.js, Python, FastAPI, and Django REST Framework**
+- Work with **LLMs, RAG, AI agents, agentic workflows, NLP, computer vision, and multimedia intelligence**
 - Developed **10+ reusable automation agents** and integrated **50+ internal and third-party tools**
-- Research contributor in **Bangla NLP, Explainable AI, and ethical Agentic AI**
+- Experienced in API design, database-driven applications, workflow orchestration, background processing, and deployment
+- Research contributor in Bangla NLP, Explainable AI, and ethical Agentic AI
 - Lecturer in CSE with experience teaching software engineering and AI-related subjects
-- Interested in scalable architecture, reliable backend systems, and practical AI integration
 
 > **Experience:** AI Engineer & Full-Stack Developer at Fawz Biz Enterprises | Former Lead, Product & Development at Programming Hero | AI & Software Engineer across contract projects
 
 ---
 
-## Technical Skills
+## Technology Stack
 
-### Languages
+### Core Development
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=py,ts,js,c,html,css,react,nextjs,nodejs,express,fastapi,django,tailwind,mongodb,mysql,postgres,docker,git,github,postman,vercel,linux,opencv,pytorch&perline=12"
+      alt="Core technology stack"
+    />
+  </a>
 </p>
 
-### Frontend
+### AI, Data and Agentic Systems
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-LLM_APIs-412991?style=for-the-badge" alt="OpenAI LLM APIs" />
+  <img src="https://img.shields.io/badge/Google_Gemini-LLM_APIs-4285F4?style=for-the-badge" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-Agentic_Workflows-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-20232A?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_%26_Reranking-0EA5E9?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Databases-Embeddings-7C3AED?style=for-the-badge" alt="Vector databases" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OCR-Document_Intelligence-F97316?style=for-the-badge" alt="OCR" />
 </p>
 
-### Backend and APIs
+### Engineering Areas
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
-</p>
+`REST APIs` · `System Design` · `Modular Architecture` · `Background Processing` · `Workflow Automation` · `Database Design` · `API Integration` · `Docker` · `CI/CD` · `Testing` · `Debugging` · `Agile/Scrum`
 
-### Databases and Data
+---
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+## Featured Projects
 
-### Applied AI and Agentic Systems
+### Intelligent Hiring Integrity & Compliance Platform
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
+A full-stack interview integrity platform combining computer vision, OCR, NLP, and LLM-based verification.
 
-**Core areas:** LLM APIs, prompt engineering, AI agents, agentic workflows, RAG, embeddings, vector databases, semantic retrieval, reranking, NLP, OCR, computer vision, and multimedia intelligence.
+- Modular **Python/FastAPI** backend and **TypeScript** web interface
+- MediaPipe, OpenCV, OCR, and LLM-based verification pipeline
+- Fallback and consensus processing for improved reliability
+- Achieved up to **95–100% detection accuracy in tested scenarios**
 
-### Engineering and Deployment
+**Stack:** Python, FastAPI, TypeScript, OpenCV, MediaPipe, OpenAI, Hugging Face, Tesseract.js  
+**Live:** [interviewagent.vercel.app](https://interviewagent.vercel.app/)
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-</p>
+---
 
-**Engineering knowledge:** System design, modular architecture, scalable APIs, Object-Oriented Programming, data structures, algorithms, SDLC, Agile/Scrum, debugging, testing, code review, CI/CD concepts, and technical documentation.
+### ClipForge — AI Video Generation System
+
+A full-stack platform that turns scripts into rendered videos by coordinating AI and media-processing services.
+
+- AI narration, image generation, animation sequencing, and media composition
+- Background processing, progress tracking, concurrency, and failure handling
+- API-driven orchestration across multiple external services
+
+**Stack:** Python, FastAPI, TypeScript, OpenAI, DALL·E, ElevenLabs, MoviePy, FFmpeg, OpenCV  
+**Live:** [clipforgereels.com](https://clipforgereels.com/)
+
+---
+
+### OgroPath — Personalized Learning Platform
+
+An AI-supported learning platform with adaptive plans, assessments, mock tests, and progress tracking.
+
+- Context-aware educational guidance using RAG and memory
+- Agentic workflows for retrieval, recommendations, and student support
+- Modular FastAPI services and vector-based content retrieval
+
+**Stack:** Python, FastAPI, LangChain, LangGraph, Vector Databases, Transformers  
+**Live:** [ogropath.com](https://ogropath.com/)
+
+---
+
+### Oppora AI Workflow Platform
+
+A modular orchestration platform supporting reusable agents, tool integrations, and advanced execution flows.
+
+- Developed **10+ reusable automation agents**
+- Integrated **50+ internal and third-party tools**
+- Supported iterative, conditional, parallel, and hybrid workflows
+- Built maintainable API-based orchestration components
+
+**Stack:** Python, LLM APIs, AI Agents, Workflow Automation, REST APIs  
+**Live:** [oppora.ai](https://oppora.ai/)
 
 ---
 
 ## Professional Experience
 
-### AI Engineer & Full-Stack Developer
-**Fawz Biz Enterprises** · Oct 2025 – Present
+<details>
+<summary><strong>AI Engineer & Full-Stack Developer — Fawz Biz Enterprises</strong></summary>
+<br />
 
 - Develop secure backend services and web applications for a government project
 - Build AI-powered multimedia intelligence features for audio, video, speech processing, computer vision, and automated content analysis
 - Design modular services for real-time processing, API integration, error handling, and system reliability
 - Collaborate with product, design, and engineering teams to deliver tested features and production releases
 
-### Lead, Product & Development
-**Programming Hero** · Sep 2024 – Aug 2025
+</details>
 
-- Led the end-to-end delivery of **Zenyora**
+<details>
+<summary><strong>Lead, Product & Development — Programming Hero</strong></summary>
+<br />
+
+- Led the end-to-end delivery of Zenyora
 - Converted product requirements into technical scope, sprint plans, feature priorities, and release milestones
 - Coordinated frontend, backend, design, marketing, and operations teams
 - Used user feedback and product data to prioritize fixes and improvements
 
-### AI & Software Engineer — Contract Projects
-**Multiple Technology Companies** · Mar 2023 – Jan 2026
+</details>
 
-- Built a modular workflow orchestration platform for **Oppora AI**
-- Developed **10+ reusable AI agents** and integrated **50+ tools**
-- Contributed to AI, backend, automation, ERP, e-commerce, POS, inventory, and school management systems
+<details>
+<summary><strong>AI & Software Engineer — Contract Projects</strong></summary>
+<br />
+
+- Built a modular workflow orchestration platform for Oppora AI
+- Developed reusable AI agents and integrated internal and external tools
+- Contributed to AI, backend, ERP, e-commerce, POS, inventory, and school management systems
 - Worked with Softstandard Solutions, Join Venture AI, Bright Future Soft, Estrach, and Hellwet Software
 
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Intelligent Hiring Integrity Platform
-
-A full-stack interview integrity and compliance platform using computer vision, OCR, NLP, and AI-based verification.
-
-**Highlights**
-- Modular FastAPI backend
-- TypeScript web application
-- MediaPipe and OpenCV processing
-- OCR and LLM-based verification
-- Fallback and consensus processing
-- Up to **95–100% detection accuracy in tested scenarios**
-
-**Tech:** Python, FastAPI, TypeScript, OpenCV, MediaPipe, OpenAI, Hugging Face, Tesseract.js
-
-[View Project](https://interviewagent.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### ClipForge — AI Video Generation
-
-A full-stack platform that converts scripts into rendered videos by coordinating AI and media services.
-
-**Highlights**
-- Script-to-video workflow
-- AI narration and image generation
-- Media composition and animation sequencing
-- Background job processing
-- Progress tracking and failure handling
-- Concurrent rendering workflows
-
-**Tech:** Python, FastAPI, TypeScript, OpenAI, DALL·E, ElevenLabs, MoviePy, FFmpeg, OpenCV
-
-[View Project](https://clipforgereels.com/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### OgroPath — Personalized Learning Platform
-
-An AI-supported learning platform with assessments, adaptive plans, mock tests, and progress tracking.
-
-**Highlights**
-- Context-aware educational assistance
-- RAG-based content retrieval
-- AI memory and agentic workflows
-- Student profiling and recommendations
-- Modular FastAPI services
-
-**Tech:** Python, FastAPI, LangChain, LangGraph, vector databases, Transformers
-
-[View Project](https://ogropath.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### Oppora AI Workflow Platform
-
-A modular orchestration system supporting reusable agents, tools, and advanced execution workflows.
-
-**Highlights**
-- More than 10 reusable automation agents
-- More than 50 tool integrations
-- Iterative and conditional execution
-- Parallel and hybrid workflows
-- Modular API-based components
-- State-aware workflow orchestration
-
-**Tech:** Python, APIs, AI agents, LLM integrations, workflow automation
-
-[View Project](https://oppora.ai/)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## Agentic AI and System Design
+## Research and Achievements
 
-- AI agents with tool calling, workflow routing, memory, and state management
-- Multi-step workflows using iterative, conditional, parallel, and hybrid execution
-- RAG pipelines with embeddings, vector search, semantic retrieval, and reranking
-- Modular backend systems with clear service boundaries
-- Background processing for long-running AI and media tasks
-- API integration across internal services and external platforms
-- Error handling, fallback processing, observability, reliability, and maintainability
-- LLM latency and cost-aware application design
-
----
-
-## Research and Publications
-
-- **EthosAgentAI** — An ethical multi-model Agentic AI ecosystem for fair hiring and intelligent skill development
-- **Bangla Tense Classification: Exploring Machine Learning and Deep Learning Techniques** — Accepted at IEEE ICCCNT 2025, IIT Indore
-- **Towards Transparent Emotion Detection in Bengali and Banglish** — Explainable AI for code-mixed sentiment classification
+- **EthosAgentAI:** Ethical multi-model Agentic AI ecosystem for fair hiring and intelligent skill development
+- **Bangla Tense Classification:** Accepted at IEEE ICCCNT 2025, IIT Indore
+- **Explainable Emotion Detection:** Bengali and Banglish code-mixed sentiment classification
+- **Champion:** NextGen National Hackathon 2025
+- **Champion:** Daffodil University Accelerator Cup
+- **5th Place:** API Avenger National Hackathon, CUET
+- **6th Place:** Data Visionary Competition, DIU
 
 ---
 
-## Achievements
-
-- 🥇 Champion — NextGen National Hackathon, IIUC, 2025
-- 🥇 Champion — Daffodil University Accelerator Cup, 2023
-- 🏅 5th Place — API Avenger National Hackathon, CUET, 2025
-- 🏅 6th Place — Data Visionary Competition, DIU, 2025
-- 📄 Paper Presenter — IEEE ICCCNT 2025, IIT Indore
-- 🎓 HSC and SSC Merit Scholarship Recipient
-
----
-
-## GitHub Analytics
+## GitHub Contribution and Push History
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DIP-RO&show_icons=true&theme=tokyonight&hide_border=true" alt="Dipro Paul's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DIP-RO&theme=tokyonight&hide_border=true" alt="Dipro Paul's GitHub streak" />
+  <img
+    src="https://raw.githubusercontent.com/DIP-RO/DIP-RO/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="GitHub profile contribution details"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIP-RO&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img
+    src="https://raw.githubusercontent.com/DIP-RO/DIP-RO/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Languages by repository"
+    width="49%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/DIP-RO/DIP-RO/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    alt="Most-used languages by commits"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIP-RO&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph" />
+  <img
+    src="https://raw.githubusercontent.com/DIP-RO/DIP-RO/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="GitHub statistics"
+    width="49%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/DIP-RO/DIP-RO/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="GitHub productive time"
+    width="49%"
+  />
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=DIP-RO&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub contribution streak"
+      width="70%"
+    />
+  </a>
+</p>
+
+### Recent Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DIP-RO&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub activity graph"
+    width="100%"
+  />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DIP-RO/DIP-RO/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DIP-RO/DIP-RO/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/DIP-RO/DIP-RO/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
 
 ## Connect With Me
 
-<p>
+<p align="center">
   <a href="https://dipropaul.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/dipro-paul">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DIP-RO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dipropaul032@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-- **Portfolio:** [dipropaul.vercel.app](https://dipropaul.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/dipro-paul](https://linkedin.com/in/dipro-paul)
-- **GitHub:** [github.com/DIP-RO](https://github.com/DIP-RO)
-- **Email:** [dipropaul032@gmail.com](mailto:dipropaul032@gmail.com)
-
----
-
-## Engineering Philosophy
-
-> Build reliable full-stack systems and apply AI where it creates measurable value.
+<p align="center">
+  <strong>Build reliable full-stack systems and apply AI where it creates measurable value.</strong>
+</p>
