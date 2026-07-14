@@ -1,83 +1,133 @@
-# GitHub Profile Setup
+# GitHub Profile README Setup
 
-Upload the full contents of this folder to your public GitHub profile repository:
+## Required Files
+
+Only one file is required for the GitHub profile itself:
+
+```text
+README.md
+```
+
+This package also includes:
+
+```text
+SETUP.md
+```
+
+`SETUP.md` is only an instruction file. It does not need to be uploaded to GitHub unless you want to keep it for reference.
+
+---
+
+## 1. Create or Open Your Profile Repository
+
+Your GitHub username is:
+
+```text
+DIP-RO
+```
+
+Create a public repository named exactly:
+
+```text
+DIP-RO
+```
+
+The complete repository path should be:
 
 ```text
 DIP-RO/DIP-RO
 ```
 
-The repository name must exactly match your GitHub username.
+GitHub automatically recognizes this as your profile repository.
 
-## 1. Upload the files
+---
 
-Your profile repository should contain:
+## 2. Upload the README
+
+Open the `DIP-RO/DIP-RO` repository and replace its existing README with the included:
 
 ```text
 README.md
-assets/header.svg
-.github/workflows/profile-summary.yml
-.github/workflows/snake.yml
 ```
 
-## 2. Enable workflow write permission
+You can upload it through the GitHub website or push it with Git.
 
-Open:
+---
+
+## 3. Commit the File
+
+Use a commit message such as:
 
 ```text
-Repository Settings → Actions → General → Workflow permissions
+Update GitHub profile README
 ```
 
-Choose:
+After committing, open your profile:
 
 ```text
-Read and write permissions
+https://github.com/DIP-RO
 ```
 
-Save the setting.
+---
 
-## 3. Add the summary-card token
+## 4. Required Extra Files
 
-The profile summary workflow needs a GitHub token to generate complete cards.
+No extra files are required.
 
-1. Create a fine-grained personal access token.
-2. Give it read access to the repositories you want counted.
-3. Open the profile repository:
-   `Settings → Secrets and variables → Actions`.
-4. Create a repository secret named:
+You do not need:
 
-```text
-SUMMARY_GITHUB_TOKEN
-```
+- GitHub Actions workflows
+- API tokens
+- Repository secrets
+- Local images
+- SVG banner files
+- Contribution snake files
+- Summary-card output folders
 
-5. Paste the token as the value.
+The README uses direct external cards and badges.
 
-Never put the token directly inside a workflow or README file.
+---
 
-## 4. Include private contribution totals
+## 5. Show Private Contribution Counts
 
-To count private activity without displaying private repository names:
+To show private contribution counts without exposing repository details:
 
-1. Open GitHub profile settings.
-2. Find **Contribution settings**.
+1. Open your GitHub profile.
+2. Open contribution settings.
 3. Enable **Include private contributions on my profile**.
-4. Ensure the token can read the selected private repositories.
 
-## 5. Run both workflows once
+Private repository names, code, and language details remain hidden.
 
-Open the repository's **Actions** tab.
+---
 
-Run manually:
+## 6. If a Statistics Card Does Not Appear
 
-1. **Generate GitHub Profile Summary Cards**
-2. **Generate Contribution Snake**
+Some cards use external services and GitHub may cache them.
 
-After both workflows finish, refresh your profile README.
+Try:
 
-## Notes
+1. Refresh the profile page.
+2. Perform a hard refresh.
+3. Open the image URL in a new browser tab.
+4. Check again after GitHub refreshes its cache.
 
-- The locally generated summary cards are committed to:
-  `profile-summary-card-output/tokyonight/`
-- The snake SVGs are pushed to the:
-  `output` branch
-- Most-used-language cards represent repository and commit data; they are not a measure of skill level.
-- Some dynamic external cards can occasionally be delayed by service caching.
+The profile text and project information will still display even when an external card is temporarily unavailable.
+
+---
+
+## Final Repository Structure
+
+The minimum structure is:
+
+```text
+DIP-RO/
+└── README.md
+```
+
+Optional structure when keeping the instructions:
+
+```text
+DIP-RO/
+├── README.md
+└── SETUP.md
+```
