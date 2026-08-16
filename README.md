@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Developing+Practical+AI+Solutions;Contributing+to+Open+Source;Research+in+Bangla+NLP+and+Ethical+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Developing+Applied+AI+Solutions;Contributing+to+Open+Source;Research+in+Bangla+NLP+and+Ethical+AI"
     alt="Full-Stack Software Engineer and Applied AI"
   />
 </p>
@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Achievements
 
-I'm working toward GitHub achievements including **Pull Shark**, **Galaxy Brain**, **Pair Extraordinaire**, and **Open Source contributor badges**. [View my achievements →](https://github.com/DIP-RO?tab=achievements)
+I'm working toward GitHub achievements including **Pull Shark**, **Galaxy Brain**, **Pair Extraordinaire**, and **Open Source contributor badges**. [View my achievements →](https://github.com/DIP-RO?achievement=pull-shark&achievement=galaxy-brain&achievement=pair-extraordinaire)
 
 ---
 
@@ -295,7 +295,7 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=DIP-RO&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"
+    src="https://github-readme-streak-stats.herokuapp.com?user=DIP-RO&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"
     alt="Dipro Paul's GitHub contribution streak"
     width="70%"
   />
