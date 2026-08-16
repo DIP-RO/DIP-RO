@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dipro Paul</h1>
 
-<h3 align="center">Full-Stack Software Engineer | Applied AI</h3>
+<h3 align="center">Full-Stack Software Engineer | Applied AI | Open Source Contributor</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Developing+Reliable+APIs+and+Backend+Systems;Integrating+LLMs%2C+RAG%2C+and+AI+Agents;Creating+Production-Focused+Intelligent+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Developing+Practical+AI+Solutions;Contributing+to+Open+Source;Research+in+Bangla+NLP+and+Ethical+AI"
     alt="Full-Stack Software Engineer and Applied AI"
   />
 </p>
@@ -27,6 +27,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DIP-RO&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+I'm working toward GitHub achievements including **Pull Shark**, **Galaxy Brain**, **Pair Extraordinaire**, and **Open Source contributor badges**. [View my achievements →](https://github.com/DIP-RO?tab=achievements)
 
 ---
 
@@ -135,7 +141,7 @@ Full-stack interview integrity and compliance platform using computer vision, OC
 - Up to **95–100% accuracy in tested scenarios**
 
 **Stack:** Python, FastAPI, TypeScript, OpenCV, OpenAI  
-[Live Project](https://interviewagent.vercel.app/)
+[🔗 Live Project](https://interviewagent.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -150,7 +156,7 @@ Script-to-video platform coordinating AI narration, image generation, animation,
 - Multiple AI and media integrations
 
 **Stack:** Python, FastAPI, TypeScript, OpenAI, FFmpeg  
-[Live Project](https://clipforgereels.com/)
+[🔗 Live Project](https://clipforgereels.com/)
 
 </td>
 </tr>
@@ -168,7 +174,7 @@ Personalized learning platform with assessments, adaptive study plans, mock test
 - Modular FastAPI services
 
 **Stack:** Python, FastAPI, LangChain, LangGraph, Vector DB  
-[Live Project](https://ogropath.com/)
+[🔗 Live Project](https://ogropath.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +189,7 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 - API-based modular architecture
 
 **Stack:** Python, LLM APIs, AI Agents, REST APIs  
-[Live Project](https://oppora.ai/)
+[🔗 Live Project](https://oppora.ai/)
 
 </td>
 </tr>
@@ -194,7 +200,7 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>AI Engineer & Full-Stack Developer — Fawz Biz Enterprises</strong></summary>
+<summary><strong>🎯 AI Engineer & Full-Stack Developer — Fawz Biz Enterprises</strong></summary>
 <br />
 
 - Develop secure backend services and web applications for a government project
@@ -204,7 +210,7 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 </details>
 
 <details>
-<summary><strong>Lead, Product & Development — Programming Hero</strong></summary>
+<summary><strong>🎯 Lead, Product & Development — Programming Hero</strong></summary>
 <br />
 
 - Led the end-to-end delivery of Zenyora
@@ -214,7 +220,7 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 </details>
 
 <details>
-<summary><strong>AI & Software Engineer — Contract Projects</strong></summary>
+<summary><strong>🎯 AI & Software Engineer — Contract Projects</strong></summary>
 <br />
 
 - Built workflow orchestration, AI agents, API integrations, and backend services
@@ -227,13 +233,16 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 
 ## 🔬 Research and Achievements
 
+### 📜 Research Publications
 - **EthosAgentAI:** Ethical multi-model Agentic AI ecosystem for fair hiring and intelligent skill development
 - **Bangla Tense Classification:** Accepted at IEEE ICCCNT 2025, IIT Indore
 - **Explainable Emotion Detection:** Bengali and Banglish code-mixed sentiment classification
-- 🥇 Champion — NextGen National Hackathon 2025
-- 🥇 Champion — Daffodil University Accelerator Cup
-- 🏅 5th Place — API Avenger National Hackathon, CUET
-- 🏅 6th Place — Data Visionary Competition, DIU
+
+### 🏆 Competition Wins
+- 🥇 **Champion** — NextGen National Hackathon 2025
+- 🥇 **Champion** — Daffodil University Accelerator Cup
+- 🏅 **5th Place** — API Avenger National Hackathon, CUET
+- 🏅 **6th Place** — Data Visionary Competition, DIU
 
 ---
 
@@ -306,6 +315,25 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
 
 ---
 
+## 🤝 How to Collaborate
+
+I'm always interested in:
+- **Open Source Contributions** - Let's build amazing projects together
+- **AI/ML Research** - Especially in Bangla NLP and Ethical AI
+- **Full-Stack Projects** - Complex systems with practical impact
+- **Mentoring** - Helping other developers grow their skills
+
+Feel free to reach out via [email](mailto:dipropaul032@gmail.com) or [LinkedIn](https://linkedin.com/in/dipro-paul)!
+
+---
+
+## 📦 Popular Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DIP-RO&repo=final-defence&theme=tokyonight)](https://github.com/DIP-RO/final-defence)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DIP-RO&repo=diu-resource-sharing-web&theme=tokyonight)](https://github.com/DIP-RO/diu-resource-sharing-web)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -318,8 +346,17 @@ Modular orchestration platform for reusable AI agents, tool integrations, and ad
   <a href="mailto:dipropaul032@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/DIP-RO">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Build reliable full-stack systems and apply AI where it creates measurable value.</strong>
+  <strong>✨ Build reliable full-stack systems and apply AI where it creates measurable value. ✨</strong>
+</p>
+
+---
+
+<p align="center">
+  <sub>Last updated: 2026 | Contributions welcome! 🎉</sub>
 </p>
