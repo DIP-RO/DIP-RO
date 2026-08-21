@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Developing+Applied+AI+Solutions;Contributing+to+Open+Source;Research+in+Bangla+NLP+and+Ethical+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Developin[...]"
     alt="Full-Stack Software Engineer and Applied AI"
   />
 </p>
@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Achievements
 
-I'm working toward GitHub achievements including **Pull Shark**, **Galaxy Brain**, **Pair Extraordinaire**, and **Open Source contributor badges**. [View my achievements →](https://github.com/DIP-RO?achievement=pull-shark&achievement=galaxy-brain&achievement=pair-extraordinaire)
+I'm working toward GitHub achievements including **Pull Shark**, **Galaxy Brain**, **Pair Extraordinaire**, and **Open Source contributor badges**. [View my achievements →](https://github.com/DI[...])
 
 ---
 
@@ -122,6 +122,47 @@ I am a **Full-Stack Software Engineer** focused on building reliable web applica
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
+
+---
+
+## 📦 Published Packages
+
+I maintain and publish several open-source packages for AI, RAG, and multimedia processing:
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Sem-fuse-rag-pip-package
+
+Semantic fusion RAG package for advanced retrieval-augmented generation with intelligent document processing and semantic search.
+
+**Stack:** Python, RAG, LLMs  
+[🔗 Repository](https://github.com/DIP-RO/Sem-fuse-rag-pip-package)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 media-data-extractor
+
+Powerful tool for extracting structured data from multimedia files including audio, video, and images. Supports metadata extraction, OCR, and content analysis.
+
+**Stack:** Python, OpenCV, FFmpeg, MediaPipe  
+[🔗 Repository](https://github.com/DIP-RO/media-data-extractor)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 MCP_Package
+
+Model Context Protocol (MCP) package for enabling seamless integration of AI models with various tools and services. Facilitates building modular agentic systems.
+
+**Stack:** Python, LLM APIs, Tool Integration  
+[🔗 Repository](https://github.com/DIP-RO/MCP_Package)
+
+</td>
+</tr>
+</table>
 
 ---
 
